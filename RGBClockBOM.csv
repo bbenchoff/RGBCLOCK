@@ -1,0 +1,12 @@
+Qty,Value,Device,Package,Parts,Description,Manufacturer,Manufacturer_ID,Mouser,Digikey,Adafruit
+,,,,,,,,,,
+1,,BATTERY12MM,BATTCON_12MM,BAT1,Battery Holders,Keystone,3080,http://www.mouser.com/ProductDetail/Keystone-Electronics/3080/,,
+1,DS3231M,DS3231M,SOIC8,RTC1,DS3231M Real Time Clock.  Accuracy +/-5ppm.  Battery Backup.  2.3V to 5.5V.,Maxim,DS3231MZ+,http://www.mouser.com/ProductDetail/Maxim-Integrated/DS3231MZ+/?qs=sGAEpiMZZMvneFh0PZ8A%2fM4Ekiubn2VI,,
+4,LED2472G,LED2472G,TQFP48,"U$6, U$7, U$8, U$9",,ST,LED2472GBTR,http://www.mouser.com/ProductDetail/STMicroelectronics/LED2472GBTR/?qs=sGAEpiMZZMvh0aGzCjJ9puB8hj152Gru,,
+2,RGBLED_CA-5MM,RGBLED_CA-5MM,LED5MMRGB,"LED1, LED2","RGB LED, common-anode5MM Staggered pins5mm Piranha package",,,,,
+4,RGBSEVENSEGMENT,RGBSEVENSEGMENT,RGBSEVENSEGMENT,"U$2, U$3, U$4, U$5",Single digit seven-segment RGB LED display,A'SYCK,AD-121F2,,,http://www.adafruit.com/products/1399
+,,,,,,,,,,
+1,,CAP0805,805,C1,Capacitor,,,,,
+2,10k,RESISTOR0805-RES,805,"R4, R5",Resistor,,,,,
+4,13k,RESISTOR0805-RES,805,"R1, R2, R3, R6",Resistor,,,,,
+1,PIN20X2,PIN20X2,PIN_20X2,K1,,,,,,http://www.adafruit.com/products/1992
