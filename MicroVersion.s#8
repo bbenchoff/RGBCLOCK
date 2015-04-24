@@ -6845,26 +6845,22 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN2" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN1"/>
-<wire x1="40.64" y1="-38.1" x2="48.26" y2="-38.1" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="22"/>
+<wire x1="40.64" y1="-38.1" x2="33.02" y2="-38.1" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$5" gate="G$1" pin="GREEN2"/>
 <wire x1="40.64" y1="-48.26" x2="48.26" y2="-48.26" width="0.1524" layer="91"/>
 </segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="22"/>
-<wire x1="40.64" y1="-38.1" x2="33.02" y2="-38.1" width="0.1524" layer="91"/>
-</segment>
 </net>
 <net name="1BLUE1" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BLUE1"/>
-<wire x1="43.18" y1="-40.64" x2="48.26" y2="-40.64" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="24"/>
 <wire x1="43.18" y1="-50.8" x2="33.02" y2="-50.8" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="BLUE1"/>
+<wire x1="43.18" y1="-40.64" x2="48.26" y2="-40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED2" class="0">
@@ -6879,12 +6875,12 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1BLUE2" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BLUE2"/>
-<wire x1="43.18" y1="-50.8" x2="48.26" y2="-50.8" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="21"/>
 <wire x1="43.18" y1="-40.64" x2="33.02" y2="-40.64" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="BLUE2"/>
+<wire x1="43.18" y1="-50.8" x2="48.26" y2="-50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED3" class="0">
@@ -6899,26 +6895,22 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN3" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN3"/>
-<wire x1="40.64" y1="-58.42" x2="48.26" y2="-58.42" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="15"/>
 <wire x1="40.64" y1="-99.06" x2="33.02" y2="-99.06" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="GREEN3"/>
+<wire x1="40.64" y1="-58.42" x2="48.26" y2="-58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1BLUE4" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BLUE3"/>
-<wire x1="43.18" y1="-60.96" x2="48.26" y2="-60.96" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="18"/>
+<wire x1="43.18" y1="-91.44" x2="33.02" y2="-91.44" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$5" gate="G$1" pin="BLUE4"/>
 <wire x1="43.18" y1="-71.12" x2="48.26" y2="-71.12" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="18"/>
-<wire x1="43.18" y1="-91.44" x2="33.02" y2="-91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED4" class="0">
@@ -6933,12 +6925,12 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN4" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN4"/>
-<wire x1="40.64" y1="-68.58" x2="48.26" y2="-68.58" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="13"/>
 <wire x1="40.64" y1="-88.9" x2="33.02" y2="-88.9" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="GREEN4"/>
+<wire x1="40.64" y1="-68.58" x2="48.26" y2="-68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED5" class="0">
@@ -6953,22 +6945,22 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN5" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN5"/>
-<wire x1="40.64" y1="-78.74" x2="48.26" y2="-78.74" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="-78.74" x2="33.02" y2="-78.74" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="GREEN5"/>
+<wire x1="40.64" y1="-78.74" x2="48.26" y2="-78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1BLUE5" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BLUE5"/>
-<wire x1="43.18" y1="-81.28" x2="48.26" y2="-81.28" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="9"/>
 <wire x1="43.18" y1="-81.28" x2="33.02" y2="-81.28" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="BLUE5"/>
+<wire x1="43.18" y1="-81.28" x2="48.26" y2="-81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED6" class="0">
@@ -6983,22 +6975,22 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN6" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN6"/>
-<wire x1="40.64" y1="-88.9" x2="48.26" y2="-88.9" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="3"/>
 <wire x1="40.64" y1="-68.58" x2="33.02" y2="-68.58" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="GREEN6"/>
+<wire x1="40.64" y1="-88.9" x2="48.26" y2="-88.9" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1BLUE6" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="BLUE6"/>
-<wire x1="43.18" y1="-91.44" x2="48.26" y2="-91.44" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="2"/>
 <wire x1="43.18" y1="-71.12" x2="33.02" y2="-71.12" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="BLUE6"/>
+<wire x1="43.18" y1="-91.44" x2="48.26" y2="-91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1RED7" class="0">
@@ -7013,22 +7005,32 @@ Mating wall wart : TOL-00298 (and others)</description>
 </net>
 <net name="1GREEN7" class="0">
 <segment>
-<pinref part="U$5" gate="G$1" pin="GREEN7"/>
-<wire x1="40.64" y1="-99.06" x2="48.26" y2="-99.06" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="U$1" gate="G$1" pin="11"/>
 <wire x1="40.64" y1="-58.42" x2="33.02" y2="-58.42" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="GREEN7"/>
+<wire x1="40.64" y1="-99.06" x2="48.26" y2="-99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1BLUE7" class="0">
 <segment>
+<pinref part="U$1" gate="G$1" pin="5"/>
+<wire x1="43.18" y1="-60.96" x2="33.02" y2="-60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
 <pinref part="U$5" gate="G$1" pin="BLUE7"/>
 <wire x1="43.18" y1="-101.6" x2="48.26" y2="-101.6" width="0.1524" layer="91"/>
 </segment>
+</net>
+<net name="1BLUE3" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="5"/>
-<wire x1="43.18" y1="-60.96" x2="33.02" y2="-60.96" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="19"/>
+<wire x1="43.18" y1="-101.6" x2="33.02" y2="-101.6" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$5" gate="G$1" pin="BLUE3"/>
+<wire x1="43.18" y1="-60.96" x2="48.26" y2="-60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="1GREEN1" class="0">
@@ -7036,11 +7038,9 @@ Mating wall wart : TOL-00298 (and others)</description>
 <pinref part="U$1" gate="G$1" pin="16"/>
 <wire x1="40.64" y1="-48.26" x2="33.02" y2="-48.26" width="0.1524" layer="91"/>
 </segment>
-</net>
-<net name="1BLUE3" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="19"/>
-<wire x1="43.18" y1="-101.6" x2="33.02" y2="-101.6" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="GREEN1"/>
+<wire x1="40.64" y1="-38.1" x2="48.26" y2="-38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

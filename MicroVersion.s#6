@@ -6756,6 +6756,16 @@ Mating wall wart : TOL-00298 (and others)</description>
 <wire x1="170.18" y1="-68.58" x2="180.34" y2="-68.58" width="0.1524" layer="91"/>
 <label x="170.18" y="-68.58" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U$7" gate="G$1" pin="LE"/>
+<wire x1="259.08" y1="-68.58" x2="269.24" y2="-68.58" width="0.1524" layer="91"/>
+<label x="261.62" y="-68.58" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$8" gate="G$1" pin="LE"/>
+<wire x1="345.44" y1="-68.58" x2="358.14" y2="-68.58" width="0.1524" layer="91"/>
+<label x="345.44" y="-68.58" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="DATA" class="0">
 <segment>
@@ -6786,6 +6796,16 @@ Mating wall wart : TOL-00298 (and others)</description>
 <pinref part="U$6" gate="G$1" pin="CLK"/>
 <wire x1="170.18" y1="-63.5" x2="180.34" y2="-63.5" width="0.1524" layer="91"/>
 <label x="170.18" y="-63.5" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$7" gate="G$1" pin="CLK"/>
+<wire x1="259.08" y1="-63.5" x2="269.24" y2="-63.5" width="0.1524" layer="91"/>
+<label x="261.62" y="-63.5" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$8" gate="G$1" pin="CLK"/>
+<wire x1="345.44" y1="-63.5" x2="358.14" y2="-63.5" width="0.1524" layer="91"/>
+<label x="345.44" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">

@@ -6787,22 +6787,6 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="10k"/>
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES" value="10k"/>
-<part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R7" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R8" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R9" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R10" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R11" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R12" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R13" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R15" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R16" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R17" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R18" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R19" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R20" library="SparkFun-Passives" deviceset="RESISTOR" device="0805-RES"/>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
 <part name="S2" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="SMD-1101NE"/>
@@ -6864,22 +6848,6 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <instance part="P+3" gate="VCC" x="137.16" y="38.1"/>
 <instance part="R1" gate="G$1" x="119.38" y="25.4" rot="R90"/>
 <instance part="R2" gate="G$1" x="111.76" y="27.94" rot="R90"/>
-<instance part="R3" gate="G$1" x="-60.96" y="0" rot="R90"/>
-<instance part="R6" gate="G$1" x="-60.96" y="-15.24" rot="R90"/>
-<instance part="R7" gate="G$1" x="-60.96" y="-30.48" rot="R90"/>
-<instance part="R8" gate="G$1" x="-60.96" y="-45.72" rot="R90"/>
-<instance part="R9" gate="G$1" x="-68.58" y="0" rot="R90"/>
-<instance part="R10" gate="G$1" x="-68.58" y="-15.24" rot="R90"/>
-<instance part="R11" gate="G$1" x="-68.58" y="-30.48" rot="R90"/>
-<instance part="R12" gate="G$1" x="-68.58" y="-45.72" rot="R90"/>
-<instance part="R13" gate="G$1" x="-76.2" y="0" rot="R90"/>
-<instance part="R14" gate="G$1" x="-76.2" y="-15.24" rot="R90"/>
-<instance part="R15" gate="G$1" x="-76.2" y="-30.48" rot="R90"/>
-<instance part="R16" gate="G$1" x="-76.2" y="-45.72" rot="R90"/>
-<instance part="R17" gate="G$1" x="-83.82" y="0" rot="R90"/>
-<instance part="R18" gate="G$1" x="-83.82" y="-15.24" rot="R90"/>
-<instance part="R19" gate="G$1" x="-83.82" y="-30.48" rot="R90"/>
-<instance part="R20" gate="G$1" x="-83.82" y="-45.72" rot="R90"/>
 <instance part="P+4" gate="VCC" x="111.76" y="38.1"/>
 <instance part="P+5" gate="VCC" x="119.38" y="38.1"/>
 <instance part="S2" gate="G$1" x="106.68" y="0"/>
